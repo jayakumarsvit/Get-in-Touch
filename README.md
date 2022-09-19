@@ -1,6 +1,6 @@
 # Hi !!
 ### Welcome to GitHub. Happy Learning.
-### Commit your code every time and see the changes.
+### Challange yourself, to be a better version of yourself.
 
 
 <br>
